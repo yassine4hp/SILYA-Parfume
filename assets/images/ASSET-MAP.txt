@@ -1,0 +1,12 @@
+Local file       Original image used by current source
+-------------------------------------------------------
+hero.jpg         photo-1594035910387-fea47794261f
+cta-bg.jpg       photo-1523293182086-7651a899d37f
+story.jpg        photo-1595425959632-34f2822322ce
+perfume-01.jpg   photo-1541643600914-78b084683601
+perfume-02.jpg   photo-1615634262417-b7c107e3e0c7 (provider currently returns 404; no local file)
+perfume-03.jpg   photo-1528740561666-dc2479dc08ab
+perfume-04.jpg   photo-1563170351-be82bc888aa4
+perfume-05.jpg   photo-1585386959984-a4155224a1ad
+perfume-06.jpg   photo-1590736704728-f4730bb30770
+perfume-07.jpg   photo-1593487568720-92097fb460fb
