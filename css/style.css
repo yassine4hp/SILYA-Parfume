@@ -235,7 +235,7 @@ ul {
 .hero-image {
   position: absolute;
   inset: 0;
-  background-image: url("https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=1900&q=86");
+  background-image: url("../assets/images/hero.png");
   background-size: cover;
   background-position: center 56%;
   transform: scale(1.015);
