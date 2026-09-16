@@ -235,9 +235,12 @@ ul {
 .hero-image {
   position: absolute;
   inset: 0;
+
   background-image: url("../assets/images/hero.png");
   background-size: cover;
   background-position: center 56%;
+  background-repeat: no-repeat;
+
   transform: scale(1.015);
 }
 .hero-shade {
@@ -1166,13 +1169,16 @@ ul {
   .nav-list a.active:after {
     width: 40px;
   }
-  .hero {
-    min-height: 720px;
-    height: 100svh;
-    align-items: end;
+    .hero {
+    min-height: 100svh;
+    height: auto;
   }
+
   .hero-image {
-    background-position: 37% center;
+    background-size: cover;
+    background-position: 58% center;
+    background-repeat: no-repeat;
+    transform: none;
   }
   .hero-shade {
     background: linear-gradient(
